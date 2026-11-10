@@ -32,3 +32,11 @@ I am now more eager to start and see where this project will take me and will co
 
 ---
 ### Sources and Guides
+* PyMEl YouTube Tutorials and Documentation
+  
+  _**I understand that I will not use them all, but they are here for my future reference as well.**_
+  
+    * https://stackoverflow.com/questions/43453113/generate-and-place-objects-automatically-via-python-in-maya
+    * https://help.autodesk.com/cloudhelp/CHS/MayaCRE-Tech-Docs/CommandsPython/move.html
+    * https://youtu.be/kvB16GzSwok?si=lbdjvNmNh5mCKDgZ
+    * https://youtu.be/uA3yNa1A51w?si=cxOPnz5eKtYdTvMe
