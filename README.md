@@ -1,4 +1,4 @@
-# CGI-Tools_Project_Sep_2026
+# CGI-Tools Project 2026
 
 **Ysabel Maria Cartago Garcia**  
 Student ID: 5700252
