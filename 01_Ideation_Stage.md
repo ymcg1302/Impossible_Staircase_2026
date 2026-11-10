@@ -30,6 +30,8 @@ However, upon further reflection and after being showed several examples in clas
 
 I am now more eager to start and see where this project will take me and will continue to document my progress as I move forward. 
 
+<img width="5000" height="2127" alt="Escher_Chessboard(1)" src="https://github.com/user-attachments/assets/bea66717-c27b-4750-993e-2a88c930affd" />
+
 ---
 ### Sources and Guides
 
