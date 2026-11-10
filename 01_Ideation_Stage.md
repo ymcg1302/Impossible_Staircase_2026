@@ -29,3 +29,6 @@ However, upon further reflection and after being showed several examples in clas
 * Lastly, this allows me to play around with other potential procedural elements such as using PyMel to place the objects in scene and help with the initial animation testing of the ball's path. 
 
 I am now more eager to start and see where this project will take me and will continue to document my progress as I move forward. 
+
+---
+### Sources and Guides
