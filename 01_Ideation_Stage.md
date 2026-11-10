@@ -15,7 +15,7 @@ My initial idea was to make an Alice and Wonderland themed Escher-Staircase proj
 
 With the following procedural elements:
 * A Python Algorithm in Maya to construct [a House of Cards]
-* [Revolved Chess Pieces] for the supports and columns of the card castle
+* [Revolved Chess Pieces](https://share.google/aimode/RRODhiQHgapbiHlTZ) for the supports and columns of the card castle
 * And lastly, [Tiled Texture Elements] from Substance Painter to create the Cards' Patterns.
 
 <img width="830" height="382" alt="image" src="https://github.com/user-attachments/assets/dbf8483a-49f2-4cb7-bea3-cf8fc40836bc" />
