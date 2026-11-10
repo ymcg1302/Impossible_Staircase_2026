@@ -11,7 +11,7 @@ My initial idea was to make an Alice and Wonderland themed Escher-Staircase proj
 * [Relativity](http://www.scottmcd.net/artanalysis/?p=548)
 * [Belvedere](https://www.artchive.com/wp-content/uploads/2024/08/belvedere-mc-escher-1958.jpg)
 * [Waterfall](https://ih1.redbubble.net/image.3879990539.3391/flat,750x,075,f-pad,750x1000,f8f8f8.jpg)
-* and lastly, and probably his most famous [Ascending and Descending](https://en.wikipedia.org/wiki/Ascending_and_Descending#/media/File:Ascending_and_Descending.jpg) as a direct example of how to construct the Impossible Staircase. 
+* and lastly, and probably his most famous [Ascending and Descending](https://en.wikipedia.org/wiki/Ascending_and_Descending#/media/File:Ascending_and_Descending.jpg) ([Analysis](https://www.escherexplained.com/ascending-and-descending)) as a direct example of how to construct the Impossible Staircase. 
 
 With the following procedural elements:
 * A Python Algorithm in Maya to construct [a House of Cards](https://share.google/aimode/GCnDH2BznysbZNsMn).
@@ -54,4 +54,15 @@ I am now more eager to start and see where this project will take me and will co
  
 * Substance Painter Tiling Texture Guides
     * https://youtu.be/aqlWsB13DIY?si=GBMAymTvjosEHDQu
-    * 
+    * https://youtu.be/U35RDuCWW88?si=bKUqBh1ueD315x75
+    * https://youtu.be/ysWtGu1Oy00?si=aA9dGlGm0bwVrYAo
+    * https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/nodes-reference-for-substance-graphs/node-library/texture-generators/patterns/tile-sampler
+    * https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/nodes-reference-for-substance-graphs/node-library/texture-generators/patterns/tile-generator
+    * https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/nodes-reference-for-substance-graphs/node-library/texture-generators/patterns/checker-1
+    * https://youtu.be/QLv3_o_EMN4?si=gEeGAdsD8roeFr_s
+    * https://youtu.be/-UcSaZIg1bM?si=gfg3yaTufuqGszYf
+    * https://youtu.be/5PVWOrFPccE?si=jublM7ndN8D2xSLj
+    * https://youtu.be/CTPJDUhS7yA?si=6rmVdwmmaTeiQumw
+    * https://youtu.be/tIxFK537HXo?si=gr25hIaUHKAxfN9h
+    * https://youtu.be/_iT3H-aacK0?si=Jq-cFLf7sVfrv6WE
+    * https://uk.pinterest.com/pin/583919907977888946/
