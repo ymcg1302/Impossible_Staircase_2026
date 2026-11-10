@@ -17,3 +17,9 @@ Student ID: 5700252
 <img src="https://media.giphy.com/media/3oriO7A7bt1wsEP4cw/giphy.gif" width="250" align="right">
 
 
+<ins>**Questions to Ask Ari:<ins>**
+
+* How much novelty is expected?
+* Is this sufficiently scoped?
+* To what extent does it or _does not_ fulfill the brief?
+* Any other technical considerations about this project I should take note of?  
