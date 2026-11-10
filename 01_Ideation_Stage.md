@@ -16,7 +16,7 @@ My initial idea was to make an Alice and Wonderland themed Escher-Staircase proj
 With the following procedural elements:
 * A Python Algorithm in Maya to construct [a House of Cards](https://share.google/aimode/GCnDH2BznysbZNsMn).
 * [Revolved Chess Pieces](https://share.google/aimode/RRODhiQHgapbiHlTZ) for the supports and columns of the card castle
-* And lastly, [Tiled Texture Elements] from Substance Painter to create the Cards' Patterns.
+* And lastly, [Tiled Texture Elements](https://www.youtube.com/watch?v=kCkhoS1vtcw) from Substance Painter to create the Cards' Patterns.
 
 <img width="830" height="382" alt="image" src="https://github.com/user-attachments/assets/dbf8483a-49f2-4cb7-bea3-cf8fc40836bc" />
 
@@ -32,11 +32,26 @@ I am now more eager to start and see where this project will take me and will co
 
 ---
 ### Sources and Guides
-* PyMEl YouTube Tutorials and Documentation
-  
+
   _**I understand that I will not use them all, but they are here for my future reference as well.**_
-  
+
+* PyMEl YouTube Tutorials and Documentation  
     * https://stackoverflow.com/questions/43453113/generate-and-place-objects-automatically-via-python-in-maya
     * https://help.autodesk.com/cloudhelp/CHS/MayaCRE-Tech-Docs/CommandsPython/move.html
+    * https://www.geeksforgeeks.org/dsa/count-ways-to-build-house-of-cards/
+    * https://github.com/doocs/leetcode/blob/main/solution/2100-2199/2189.Number%20of%20Ways%20to%20Build%20House%20of%20Cards/README_EN.md
+    * https://medium.com/@blakeeh723/how-to-build-a-card-game-with-object-oriented-programming-c43cd2cadb3a
+    * https://stackoverflow.com/questions/47986783/calculate-number-of-cards-in-a-house-of-cards
+    * https://help.autodesk.com/view/MAYAUL/2017/ENU/?guid=__files_GUID_856DDB26_93E7_493D_A1D4_60C4CBA38B9C_htm
+    * https://algo.monster/liteproblems/2189
+    * https://kornica3d.click/tutorials.html
+    * https://www.youtube.com/watch?v=kCkhoS1vtcw
+    * https://www.youtube.com/playlist?list=PLpoXxlr0idMnyNt_9Q7-WdxU7ALV016oR
+    * https://youtu.be/Q3zHj1KUB3Y?si=Zmm7LisViUbQu_j8
     * https://youtu.be/kvB16GzSwok?si=lbdjvNmNh5mCKDgZ
+    * https://youtu.be/p77yZo-_Z-Q?si=Bmy92zcNyZyoWRka
     * https://youtu.be/uA3yNa1A51w?si=cxOPnz5eKtYdTvMe
+ 
+* Substance Painter Tiling Texture Guides
+    * https://youtu.be/aqlWsB13DIY?si=GBMAymTvjosEHDQu
+    * 
