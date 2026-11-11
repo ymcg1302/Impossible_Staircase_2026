@@ -18,7 +18,9 @@ With the following procedural elements:
 * [Revolved Chess Pieces](https://share.google/aimode/RRODhiQHgapbiHlTZ) for the supports and columns of the card castle
 * And lastly, [Tiled Texture Elements](https://www.youtube.com/watch?v=kCkhoS1vtcw) from Substance Painter to create the Cards' Patterns.
 
+<div align="center">
 <img width="830" height="382" alt="image" src="https://github.com/user-attachments/assets/dbf8483a-49f2-4cb7-bea3-cf8fc40836bc" />
+</div>
 
 ---
 
@@ -30,7 +32,7 @@ However, upon further reflection and after being showed several examples in clas
 
 I am now more eager to start and see where this project will take me and will continue to document my progress as I move forward. 
 
-<img width="5000" height="2127" alt="Escher_Chessboard(1)" src="https://github.com/user-attachments/assets/bea66717-c27b-4750-993e-2a88c930affd" />
+<img width="5000" height="1965" alt="Escher_Chessboard" src="https://github.com/user-attachments/assets/9c430b94-1372-4576-8155-3900d7d13e26" />
 
 <div align="center">
 <img width="463" height="600" alt="image" src="https://github.com/user-attachments/assets/d5ebfc82-0db4-44e7-a0cc-21eaa5e7e589" />
