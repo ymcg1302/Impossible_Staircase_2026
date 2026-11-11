@@ -14,13 +14,13 @@ My initial idea was to make an Alice and Wonderland themed Escher-Staircase proj
 * and lastly, and probably his most famous [Ascending and Descending](https://en.wikipedia.org/wiki/Ascending_and_Descending#/media/File:Ascending_and_Descending.jpg) ([Analysis](https://www.escherexplained.com/ascending-and-descending)) as a direct example of how to construct the Impossible Staircase. 
 
 With the following procedural elements:
-* A Python Algorithm in Maya to construct [a House of Cards](https://share.google/aimode/GCnDH2BznysbZNsMn).
+* A Python Algorithm in Maya to construct [a House of Cards or a Card Castle](https://share.google/aimode/GCnDH2BznysbZNsMn).
 * [Revolved Chess Pieces](https://share.google/aimode/RRODhiQHgapbiHlTZ) for the supports and columns of the card castle
 * And lastly, [Tiled Texture Elements](https://www.youtube.com/watch?v=kCkhoS1vtcw) from Substance Painter to create the Cards' Patterns.
 
 <div align="center">
-<img width="830" height="382" alt="image" src="https://github.com/user-attachments/assets/dbf8483a-49f2-4cb7-bea3-cf8fc40836bc" />
-</div>
+<img width="5000" height="1580" alt="Escher_Staircase_Refs_01_2026" src="https://github.com/user-attachments/assets/9caba9bf-e9bc-46ef-a7bf-5a6eaffc0771" /></div>
+
 
 ---
 
