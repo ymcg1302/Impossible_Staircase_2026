@@ -11,7 +11,7 @@ Student ID: 5700252
 
 | Document | Description |
 |-----------|-------------|
-| [01_Ideation_Stage.md](01_Ideation_Stage.md) | Initialize ideas and developments |
+| [01_Ideation_Stage.md](01_Ideation_Stage.md) | Initial ideas, research, and pipeline methods |
 ---
 
 <img src="https://media.giphy.com/media/3oriO7A7bt1wsEP4cw/giphy.gif" width="250" align="right">
