@@ -26,7 +26,7 @@ However, upon further reflection and after being showed several examples in clas
 
 * Focusing on the Impossible Staircase itself by making the outcome a Chess Board inspired by this artist: [Sandro del Prete](https://im-possible.info/english/articles/eschers-legacy/sandro-del-prete-between-illusion-and-reality.html) who was directly inspired by M.C. Escher as well to explore optical illusions through complex designs. This also keeps the structure of the staircase the main focus, allowing me to remove superfluous design elements and unnecessary embellishment while allowing me to still keep interesting design choices (like the [Revolved Chess Pieces](https://youtu.be/wt4oMqSL0iE?si=oP64Y3dWCFun3W1Y), [Another Example here](https://youtu.be/BXin6i_e1qg?si=lWuXyuzDLfCtnrdA)).
 * The texture itself is inspired by M.C. Escher's lithograph designs by using an aiToonShader in Autodesk Maya as seen [here](https://youtu.be/h1ue5qJAjXI?si=meV1WJkNqS5k44Xe), [here](https://www.3dart.it/toon-hatching-in-maya-and-arnold-tutorial/?utm_source=Pinterest&utm_medium=organic), and [here](https://share.google/aimode/uwX59gZD8YybWMEwg) allowing me to design interesting lighting scenarios that support the dynamic interactions between the objects as seen in the inspirations I gathered below. It also presents me with the challenge of balancing the austerity of the subjects with the dynamism of the composition which I am curious to explore. 
-* Lastly, this allows me to play around with other potential procedural elements such as using PyMel to place the objects in scene and help with the initial animation testing of the ball's path. 
+* Lastly, this allows me to play around with other potential procedural elements such as using PyMel or Houdini to create the objects and place them in scene and test the initial animation of the ball's path. 
 
 I am now more eager to start and see where this project will take me and will continue to document my progress as I move forward. 
 
@@ -43,7 +43,7 @@ I am now more eager to start and see where this project will take me and will co
 
   _**I understand that I will not use them all, but they are here for my future reference as well.**_
 
-* PyMEl YouTube Tutorials and Documentation  
+* YouTube Tutorials and Documentation (PyMel and Procedural Modelling)
     * https://stackoverflow.com/questions/43453113/generate-and-place-objects-automatically-via-python-in-maya
     * https://help.autodesk.com/cloudhelp/CHS/MayaCRE-Tech-Docs/CommandsPython/move.html
     * https://www.geeksforgeeks.org/dsa/count-ways-to-build-house-of-cards/
@@ -60,7 +60,7 @@ I am now more eager to start and see where this project will take me and will co
     * https://youtu.be/p77yZo-_Z-Q?si=Bmy92zcNyZyoWRka
     * https://youtu.be/uA3yNa1A51w?si=cxOPnz5eKtYdTvMe
  
-* Substance Painter Tiling Texture Guides
+* Substance Painter Tiling Texture and aiToonShader Guides
     * https://youtu.be/aqlWsB13DIY?si=GBMAymTvjosEHDQu
     * https://youtu.be/U35RDuCWW88?si=bKUqBh1ueD315x75
     * https://youtu.be/ysWtGu1Oy00?si=aA9dGlGm0bwVrYAo
