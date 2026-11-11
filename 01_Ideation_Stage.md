@@ -46,6 +46,9 @@ I am now more eager to start and see where this project will take me and will co
   _**I understand that I will not use them all, but they are here for my future reference as well.**_
 
 * YouTube Tutorials and Documentation (PyMel and Procedural Modelling)
+    * https://share.google/aimode/rD1p1vzKLQZEbpCBU
+    * https://www.reddit.com/r/Houdini/comments/1g1oezd/maya_and_houdini_workflow/
+    * https://www.youtube.com/watch?v=zU7hH5bHR6c&t=528s
     * https://im-possible.info/english/articles/principles/principles.html
     * https://stackoverflow.com/questions/43453113/generate-and-place-objects-automatically-via-python-in-maya
     * https://help.autodesk.com/cloudhelp/CHS/MayaCRE-Tech-Docs/CommandsPython/move.html
