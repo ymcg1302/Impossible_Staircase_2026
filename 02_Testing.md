@@ -15,8 +15,8 @@
 
 <ins>**Quick SWOT Analysis:**</ins>
 * <ins>Strengths:</ins> clean idea and pipeline, simple yet effective idea for the render and visual aesthetic
-* <ins>Weaknesses:</ins> transferring between software for the first time, 
-* <ins>Opportunities:</ins>
-* <ins>Threats:</ins>
+* <ins>Weaknesses:</ins> transferring between software for the first time, either scripting would take too long, or Houdini might be more complex than expected 
+* <ins>Opportunities:</ins> learning more about Maya and Houdini for Procedural Modelling
+* <ins>Threats:</ins> time constraints, balancing the project with my other ones 
 
 <ins>**Quick Risk Mitigation:**</ins>
