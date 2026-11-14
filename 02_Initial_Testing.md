@@ -116,14 +116,25 @@ I also approached the construction differently. I started with the cube in the c
 <img width="779" height="341" alt="image" src="https://github.com/user-attachments/assets/841b633b-c32c-496d-a2f4-14fd3e9b7b16" />
 
 ---
+
+### Test 3: Using the staircase as the design, not just the implementation.
+
+This allowed the focus of the staircase on the outer perimeter and not every step in the chessboard. This created a much more aesthetically pleasing output and a cleaner one algorithmically during its creation as well. 
+
 <img width="170" height="224" alt="image" src="https://github.com/user-attachments/assets/6129f967-e134-4d77-9b12-8532022d91ae" />
 <img width="178" height="301" alt="image" src="https://github.com/user-attachments/assets/672121fa-ec15-4f60-b62e-0c9524fefed5" />
 <img width="171" height="230" alt="image" src="https://github.com/user-attachments/assets/7aa2794a-428c-49d2-9640-6b3bfd6927a1" />
 <img width="161" height="126" alt="image" src="https://github.com/user-attachments/assets/1a6a1b0b-c7b8-4bb2-adc6-7e1863a41b30" />
 
 ---
+
+I had to try a different method when using Duplicate Special. Since I rotated the starting step/cube 45 degrees, the placement of the cubes had changed. 
+
 <img width="821" height="412" alt="image" src="https://github.com/user-attachments/assets/bf2d7422-037a-4cfa-bfdd-fc60f6fb36ea" />
+<img width="268" height="296" alt="image" src="https://github.com/user-attachments/assets/df9b4679-c142-476f-8d7e-e557bf7ee229" />
+<img width="341" height="358" alt="image" src="https://github.com/user-attachments/assets/37dca03e-8655-47ec-968f-dc58c91a0a14" />
 <img width="785" height="434" alt="image" src="https://github.com/user-attachments/assets/2182670a-9172-4101-af88-7c779e168026" />
+<img width="603" height="284" alt="image" src="https://github.com/user-attachments/assets/6b69c235-9699-4f4e-8716-2ee5e93a2888" />
 
 ----
 <img width="342" height="95" alt="image" src="https://github.com/user-attachments/assets/dfc74917-0c68-4335-86bc-56377ca8fda5" />
