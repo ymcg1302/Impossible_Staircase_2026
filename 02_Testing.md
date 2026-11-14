@@ -60,3 +60,13 @@
 
 ### Test 3: Combining Both → d 
 
+<img width="154" height="212" alt="image" src="https://github.com/user-attachments/assets/9e6864d7-d68b-42fd-91d2-6a85ad6b25ca" />
+<img width="167" height="229" alt="image" src="https://github.com/user-attachments/assets/0298ef82-ab81-479d-887b-77c7b1557158" />
+<img width="779" height="341" alt="image" src="https://github.com/user-attachments/assets/841b633b-c32c-496d-a2f4-14fd3e9b7b16" />
+<img width="170" height="224" alt="image" src="https://github.com/user-attachments/assets/6129f967-e134-4d77-9b12-8532022d91ae" />
+<img width="178" height="301" alt="image" src="https://github.com/user-attachments/assets/672121fa-ec15-4f60-b62e-0c9524fefed5" />
+<img width="171" height="230" alt="image" src="https://github.com/user-attachments/assets/7aa2794a-428c-49d2-9640-6b3bfd6927a1" />
+<img width="161" height="126" alt="image" src="https://github.com/user-attachments/assets/1a6a1b0b-c7b8-4bb2-adc6-7e1863a41b30" />
+
+---
+<img width="821" height="412" alt="image" src="https://github.com/user-attachments/assets/bf2d7422-037a-4cfa-bfdd-fc60f6fb36ea" />
