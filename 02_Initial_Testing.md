@@ -51,9 +51,8 @@ From there, I used the Duplicate Special tool to create copies in the desired di
 * Scale the Y axis by 0.9 - 0.95 each time (as a percentage) depending on the desired distance so it would decrease each time
 * Lastly, make the number of copies of 7 to emulate the chessboard dimensions. 
 
-<img width="1477" height="748" alt="image" src="https://github.com/user-attachments/assets/14c98aac-d233-4420-b9cf-38387eb0c9ae" />
-
 <img width="1279" height="952" alt="image" src="https://github.com/user-attachments/assets/837f13d9-5a93-4eea-8b83-ad9c3fd53f22" />
+<img width="1477" height="748" alt="image" src="https://github.com/user-attachments/assets/14c98aac-d233-4420-b9cf-38387eb0c9ae" />
 <img width="613" height="410" alt="image" src="https://github.com/user-attachments/assets/b394299a-61c8-49b3-818a-ae0740b281fa" />
 <img width="613" height="610" alt="image" src="https://github.com/user-attachments/assets/0363696d-25fa-4f36-9c6d-bd71709127c2" />
 
