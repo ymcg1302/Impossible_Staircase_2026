@@ -21,7 +21,7 @@
 
 <ins>**Quick Risk Mitigation:**</ins>
 * Switching from scripting in Maya to node control in Houdini eliminates the process of having to learn a new form of scripting for this project.
-* 
+* Be careful of unnecessarily intertwining → ? 
 
 ### Additional Sources
 * https://youtu.be/DaXxgK2KnGw?si=hyKokKIhKgP0EftW
