@@ -30,16 +30,33 @@
 
 ---
 
-### Process and Takeaways
+## Process and Takeaways
+
+### Test 1: Staircases Only → Too Much, Too Impossible?
+
+---
 
 <img width="613" height="410" alt="image" src="https://github.com/user-attachments/assets/b394299a-61c8-49b3-818a-ae0740b281fa" />
 <img width="613" height="610" alt="image" src="https://github.com/user-attachments/assets/0363696d-25fa-4f36-9c6d-bd71709127c2" />
 
 ---
+
+### AI Feedback: Doing Too Much at Once
+
 <img width="152" height="149" alt="image" src="https://github.com/user-attachments/assets/9ce1e5a9-2da5-4fd7-9b31-7475423bb9f2" />
 <img width="167" height="241" alt="image" src="https://github.com/user-attachments/assets/00e86fe4-e238-4a00-89e6-5a826f116861" />
 <img width="167" height="137" alt="image" src="https://github.com/user-attachments/assets/af2cd606-b286-4a52-be4b-3c3f70346300" />
 
 --- 
+
+### Test 2: Illusion Only → Staircase Present, but where's the structure? 
+
 <img width="550" height="207" alt="image" src="https://github.com/user-attachments/assets/898b9c77-92ac-4d4e-951a-13230cd5ce48" />
+
+<img width="170" height="163" alt="image" src="https://github.com/user-attachments/assets/87c8e9dd-4aab-41ca-b19a-e33c2647733f" />
+<img width="166" height="187" alt="image" src="https://github.com/user-attachments/assets/80fbbd70-223b-481e-9301-e3716e3bc92e" />
+
+---
+
+### Test 3: Combining Both → d 
 
