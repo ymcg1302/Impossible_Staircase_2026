@@ -56,7 +56,7 @@
 
 ---
 
-### Test 3: Combining Both → d 
+### Test 3: Combining Both → Procedural Algorithm Found?
 
 <img width="154" height="212" alt="image" src="https://github.com/user-attachments/assets/9e6864d7-d68b-42fd-91d2-6a85ad6b25ca" />
 <img width="167" height="229" alt="image" src="https://github.com/user-attachments/assets/0298ef82-ab81-479d-887b-77c7b1557158" />
@@ -78,3 +78,9 @@
 <img width="638" height="425" alt="image" src="https://github.com/user-attachments/assets/0ab6c4ae-02b6-4750-ba69-fd5ae13dbcb7" />
 <img width="1200" height="1152" alt="image" src="https://github.com/user-attachments/assets/d286b8a3-c0c1-44a7-9871-91789096fffa" />
 
+### Takeaways and next steps
+* ✅ Prototype created
+* ✅ Main design issue identified
+* ✅ Main design issue improved
+* ✅ Possible procedural angle identified
+* ✅ Question for Ari noted
