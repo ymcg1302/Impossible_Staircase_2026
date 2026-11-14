@@ -23,3 +23,5 @@
 
 ### Additional Sources
 * https://youtu.be/DaXxgK2KnGw?si=hyKokKIhKgP0EftW
+* https://www.reddit.com/r/Houdini/comments/1g1oezd/comment/lrj9vsc/?context=3
+* https://www.reddit.com/r/Houdini/comments/1g1oezd/comment/lrjfmqp/?context=3
