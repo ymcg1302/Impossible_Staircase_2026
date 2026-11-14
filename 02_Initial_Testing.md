@@ -73,11 +73,28 @@
 <img width="785" height="434" alt="image" src="https://github.com/user-attachments/assets/2182670a-9172-4101-af88-7c779e168026" />
 
 ----
+<img width="342" height="95" alt="image" src="https://github.com/user-attachments/assets/dfc74917-0c68-4335-86bc-56377ca8fda5" />
+<img width="337" height="181" alt="image" src="https://github.com/user-attachments/assets/a1458e12-7166-43c1-86dd-5801131a387d" />
 <img width="164" height="257" alt="image" src="https://github.com/user-attachments/assets/bd4f9be2-ee70-491d-a943-cf1dbe3c8ffd" />
 <img width="164" height="68" alt="image" src="https://github.com/user-attachments/assets/ed57cee8-3f8d-4cbf-9944-c70e6006a21b" />
 <img width="638" height="425" alt="image" src="https://github.com/user-attachments/assets/0ab6c4ae-02b6-4750-ba69-fd5ae13dbcb7" />
 <img width="1200" height="1152" alt="image" src="https://github.com/user-attachments/assets/d286b8a3-c0c1-44a7-9871-91789096fffa" />
 
+---
+## Potential Application Continued
+
+### Texture Application
+<img width="302" height="129" alt="image" src="https://github.com/user-attachments/assets/7e647d38-da20-487b-a446-6a0fb56bba02" />
+<img width="343" height="297" alt="image" src="https://github.com/user-attachments/assets/9897dd80-ce82-4aa8-bf15-b9aba4a3fcbe" />
+
+---
+## Code Structure (Pseudo Code, Idea Sketching)
+<img width="340" height="332" alt="image" src="https://github.com/user-attachments/assets/81a66847-efd1-4b6f-adc8-90c71dfbcbb6" />
+<img width="343" height="295" alt="image" src="https://github.com/user-attachments/assets/ab2b0740-e2b0-4005-af06-f52c068442be" />
+<img width="340" height="122" alt="image" src="https://github.com/user-attachments/assets/461cdd6e-5a2b-410e-9374-cc822dbcd96c" />
+<img width="344" height="110" alt="image" src="https://github.com/user-attachments/assets/1d98af65-3ad2-4a9c-ae35-16749bc91e8f" />
+
+----
 ### Takeaways and next steps
 * ✅ Prototype created
 * ✅ Main design issue identified
