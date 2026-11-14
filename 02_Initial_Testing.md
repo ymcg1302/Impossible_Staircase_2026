@@ -109,7 +109,7 @@ Trying to recreate the work from a different lens, I decided to focus solely on 
 
 For my last structure test, I did 2 things: (1) I double checked the brief to understand what aspects of proceduralism were considered and whether or not I needed to implement the illusion itself or simply the staircase. In this case, I was able to do so with the guidance of another artist mentioned above. 
 
-I also approached the construction differently, 
+I also approached the construction differently. I started with the cube in the center of the world and rotated it 45 degrees to see if I can start with the same structure as the reference and to see if I could eliminate the need to delete the inner cubes by hand. In doing so, I made something similar to a procedural or process based approaching to placing and creating the cubes/steps.
 
 <img width="154" height="212" alt="image" src="https://github.com/user-attachments/assets/9e6864d7-d68b-42fd-91d2-6a85ad6b25ca" />
 <img width="167" height="229" alt="image" src="https://github.com/user-attachments/assets/0298ef82-ab81-479d-887b-77c7b1557158" />
