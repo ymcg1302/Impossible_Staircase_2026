@@ -33,9 +33,12 @@
 ## Process and Takeaways
 
 In the previous stage, I took note of 3 prevailing structures that I could base my Chessboard Staircase on:
-1 1. The Literal Staircase Chessboard approach = using references found online, I saw that although the original artist is unknown, an original copy of it can be found in the Gökyay Chess Museum in Ankara, Turkey where the Gökyay Foundation was established to encourage the love of chess among youth. The design was popularized online and has been remade by many people online. 
-2 2. The Layered Platform Chessboard approach = here the reference integrated a multi-tiered approach with less of a focus on the staircase and more the rhythm created between the different steps more similar to the Ascending and Descending lithograph done by Escher. 
-3 3. The last approach would be more similar del Prete's approach to illusion, alongside another reference found online 
+
+1. The Literal Staircase Chessboard approach = using references found online, I saw that although the original artist is unknown, an original copy of it can be found in the [Gökyay Chess Museum](https://www.tripadvisor.com/Attraction_Review-g298656-d8735226-Reviews-Gokyay_Chess_Museum-Ankara.html#/media/8735226/805653547:p/?type=ALL_INCLUDING_RESTRICTED&albumid=-160&category=-160) in Ankara, Turkey where the Gökyay Foundation was established to encourage the love of chess among youth. The design was popularized online and has been remade by many people online. 
+
+2. The Layered Platform Chessboard approach = here the reference integrated a multi-tiered approach with less of a focus on the staircase and more the rhythm created between the different steps more similar to the [Ascending and Descending](https://www.nancyshahani.com/professor/student_work/student_sites/suny/one/patt/index.html?utm_source=Pinterest&utm_medium=organic) lithograph done by Escher. 
+
+3. The last approach would be more similar del Prete's approach to illusion, alongside another reference found online by an Optical Illusion Fan, Artist, and Crop Scientist, [Ben van der Zee](https://www.facebook.com/groups/mcescher/posts/10158969820562197/?ref=fb_answers).
 
 ----
 
