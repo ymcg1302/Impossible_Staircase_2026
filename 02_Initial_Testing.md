@@ -44,6 +44,16 @@ In the previous stage, I took note of 3 prevailing structures that I could base 
 
 ### Test 1: Staircases Only → Too Much, Too Impossible?
 
+The first pass actually combined structures 1 and 2 as I thought that their construction would be similar. To make this simpler, I found out about the Duplicate Special tool as a suggestion both from AI and external sources [here](https://help.autodesk.com/view/MAYAUL/2022/ENU/?guid=GUID-961B262B-F882-452C-B6A9-1B7F3AD8E0FE) and [here](https://youtu.be/u7mS8LrshWk?si=PmhP_0prftvDnBD-). The implementation was very straightforward as I started with a cube in the center of the world, set the pivot to the bottom of the square using Snap to Points which I then scaled up. 
+
+From there, I used the Duplicate Special tool to create copies in the desired direction and reduced their scale each time. The original settings were: 
+* Translate in X, Y, or Z by 1 depending on the direction of the output
+* Scale the Y axis by 0.9 - 0.95 each time (as a percentage) depending on the desired distance so it would decrease each time
+* Lastly, make the number of copies of 7 to emulate the chessboard dimensions. 
+
+<img width="1477" height="748" alt="image" src="https://github.com/user-attachments/assets/14c98aac-d233-4420-b9cf-38387eb0c9ae" />
+
+<img width="1279" height="952" alt="image" src="https://github.com/user-attachments/assets/837f13d9-5a93-4eea-8b83-ad9c3fd53f22" />
 <img width="613" height="410" alt="image" src="https://github.com/user-attachments/assets/b394299a-61c8-49b3-818a-ae0740b281fa" />
 <img width="613" height="610" alt="image" src="https://github.com/user-attachments/assets/0363696d-25fa-4f36-9c6d-bd71709127c2" />
 
