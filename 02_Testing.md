@@ -10,7 +10,8 @@
 
 <ins>**General pipeline for this project:**</ins>
 
-staircase procedural modelling test → bouncing ball animation test → revolve method for the chess pieces → ai toon shader
+(Stage 1) staircase procedural modelling test [Houdini] → camera angle fix [Houdini]  → (Stage 2) bouncing ball animation test [Maya] → (Stage 3) revolve method for the chess pieces [Houdini or Maya] → (Stage 4) ai toon shader [Arnold Maya] → (Stage 5) Final render
+
 
 <ins>**Quick SWOT Analysis:**</ins>
 * Strengths:
