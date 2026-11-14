@@ -89,6 +89,10 @@ Trying to recreate the work from a different lens, I decided to focus solely on 
 
 ### Test 3: Combining Both → Procedural Algorithm Found?
 
+For my last structure test, I did 2 things: (1) I double checked the brief to understand what aspects of proceduralism were considered and whether or not I needed to implement the illusion itself or simply the staircase. In this case, I was able to do so with the guidance of another artist mentioned above. 
+
+I also approached the construction differently, 
+
 <img width="154" height="212" alt="image" src="https://github.com/user-attachments/assets/9e6864d7-d68b-42fd-91d2-6a85ad6b25ca" />
 <img width="167" height="229" alt="image" src="https://github.com/user-attachments/assets/0298ef82-ab81-479d-887b-77c7b1557158" />
 <img width="779" height="341" alt="image" src="https://github.com/user-attachments/assets/841b633b-c32c-496d-a2f4-14fd3e9b7b16" />
