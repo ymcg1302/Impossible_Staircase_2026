@@ -51,14 +51,24 @@ From there, I used the Duplicate Special tool to create copies in the desired di
 * Scale the Y axis by 0.9 - 0.95 each time (as a percentage) depending on the desired distance so it would decrease each time
 * Lastly, make the number of copies of 7 to emulate the chessboard dimensions. 
 
+There were quite a few overlapping cubes as I created them so I had to delete them by hand. 
+
+After this, to attempt the second structure, it was much simpler as I just used the Snap to Points again to align the top faces with its neighbors on each row. However, in comparing the descended corners, there were irregularities with the structure that I felt would break the illusion causing me to take a step back and try a different approach. 
+
 <img width="1279" height="952" alt="image" src="https://github.com/user-attachments/assets/837f13d9-5a93-4eea-8b83-ad9c3fd53f22" />
 <img width="1477" height="748" alt="image" src="https://github.com/user-attachments/assets/14c98aac-d233-4420-b9cf-38387eb0c9ae" />
+<img width="1180" height="909" alt="image" src="https://github.com/user-attachments/assets/f95884d6-bb66-4e67-8e60-aaabe7f998bb" />
+<img width="967" height="732" alt="image" src="https://github.com/user-attachments/assets/65657d0e-556a-44a8-9dca-b653c4915989" />
+<img width="482" height="368" alt="image" src="https://github.com/user-attachments/assets/730363f6-7202-494e-a848-bffb33848fd7" />
+<img width="481" height="419" alt="image" src="https://github.com/user-attachments/assets/95eb5a6e-1796-4713-89aa-de91aca70cac" />
 <img width="613" height="410" alt="image" src="https://github.com/user-attachments/assets/b394299a-61c8-49b3-818a-ae0740b281fa" />
 <img width="613" height="610" alt="image" src="https://github.com/user-attachments/assets/0363696d-25fa-4f36-9c6d-bd71709127c2" />
 
 ---
 
 ### Test 1: AI Feedback → Doing Too Much at Once
+
+However, after I 
 
 <img width="152" height="149" alt="image" src="https://github.com/user-attachments/assets/9ce1e5a9-2da5-4fd7-9b31-7475423bb9f2" />
 <img width="167" height="241" alt="image" src="https://github.com/user-attachments/assets/00e86fe4-e238-4a00-89e6-5a826f116861" />
