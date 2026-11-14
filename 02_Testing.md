@@ -20,3 +20,6 @@
 * <ins>Threats:</ins> time constraints, balancing the project with my other ones 
 
 <ins>**Quick Risk Mitigation:**</ins>
+
+### Additional Sources
+* https://youtu.be/DaXxgK2KnGw?si=hyKokKIhKgP0EftW
