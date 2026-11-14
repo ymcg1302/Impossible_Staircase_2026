@@ -62,12 +62,15 @@ I am now more eager to start and see where this project will take me and will co
 
       ----
     * https://www.youtube.com/watch?v=kCkhoS1vtcw
-    * https://www.youtube.com/playlist?list=PLpoXxlr0idMnyNt_9Q7-WdxU7ALV016oR
     * https://youtu.be/Q3zHj1KUB3Y?si=Zmm7LisViUbQu_j8
     * https://www.youtube.com/playlist?list=PL6_f5dP9nfDl9y01hoz2rXIqfp2FeEntK
     * https://youtu.be/kvB16GzSwok?si=lbdjvNmNh5mCKDgZ
     * https://youtu.be/p77yZo-_Z-Q?si=Bmy92zcNyZyoWRka
     * https://youtu.be/uA3yNa1A51w?si=cxOPnz5eKtYdTvMe
+    * https://youtu.be/q3bpNWosyng?si=ENprVdYKX7NDAPYs
+    * https://youtube.com/playlist?list=PLpoXxlr0idMnyNt_9Q7-WdxU7ALV016oR&si=DecVCcPm-mRbzOj-
+    * https://youtu.be/kvB16GzSwok?si=fYBn1SEDv5D7KENI
+    * https://youtu.be/kCkhoS1vtcw?si=aCb07dRcQUu2ypy-
  
 * Substance Painter Tiling Texture and aiToonShader Guides
     * https://youtu.be/aqlWsB13DIY?si=GBMAymTvjosEHDQu
