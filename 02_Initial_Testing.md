@@ -8,10 +8,28 @@
 
 [AI Chat](https://copilot.cloud.microsoft/chat/share/eyJzaGFyZUlkIjoiMDE3ZDU4Y2QtMDdiYi00YmZmLWJiNGUtYTU3Y2QyZDhhZDQ1IiwiY29udmVyc2F0aW9uSWQiOiI4NWE5NjkzMS02NjEwLTRkN2MtYWIzOC05YjQyZWIwY2FhZGIifQ%3D%3D), [Brief](https://brightspace.bournemouth.ac.uk/d2l/le/lessons/675125/topics/2499691)
 
+<div align="center">
+
 <ins>**General pipeline for this project:**</ins>
 
-(Stage 1) staircase procedural modelling test [Houdini or Maya] → (Stage 2) camera angle fix [Houdini or Maya] → export camera + staircase → (Stage 3) bouncing ball animation test [Maya] → (Stage 4) revolve method for the chess pieces [Houdini or Maya] → (Stage 5) ai toon shader [Arnold Maya] → (Stage 6) Final render
+(Stage 1) staircase procedural modelling test [Houdini or Maya]
 
+↓
+                            
+(Stage 2) camera angle fix [Houdini or Maya] → export camera + staircase
+
+↓
+                            
+(Stage 3) bouncing ball animation test [Maya] 
+
+↓
+                            
+(Stage 4) revolve method for the chess pieces [Houdini or Maya] 
+
+↓
+                            
+(Stage 5) ai toon shader [Arnold Maya] → (Stage 6) Final render
+</div>
 
 <ins>**Quick SWOT Analysis:**</ins>
 * <ins>Strengths:</ins> clean idea and pipeline, simple yet effective idea for the render and visual aesthetic
