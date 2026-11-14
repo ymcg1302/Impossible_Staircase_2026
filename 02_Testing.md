@@ -14,9 +14,9 @@
 
 
 <ins>**Quick SWOT Analysis:**</ins>
-* Strengths:
-* Weaknesses:
-* Opportunities:
-* Threats:
+* <ins>Strengths:</ins> clean idea and pipeline, simple yet effective idea for the render and visual aesthetic
+* <ins>Weaknesses:</ins> transferring between software for the first time, 
+* <ins>Opportunities:</ins>
+* <ins>Threats:</ins>
 
 <ins>**Quick Risk Mitigation:**</ins>
