@@ -59,9 +59,12 @@ I am now more eager to start and see where this project will take me and will co
     * https://help.autodesk.com/view/MAYAUL/2017/ENU/?guid=__files_GUID_856DDB26_93E7_493D_A1D4_60C4CBA38B9C_htm
     * https://algo.monster/liteproblems/2189
     * https://kornica3d.click/tutorials.html
+
+      ----
     * https://www.youtube.com/watch?v=kCkhoS1vtcw
     * https://www.youtube.com/playlist?list=PLpoXxlr0idMnyNt_9Q7-WdxU7ALV016oR
     * https://youtu.be/Q3zHj1KUB3Y?si=Zmm7LisViUbQu_j8
+    * https://www.youtube.com/playlist?list=PL6_f5dP9nfDl9y01hoz2rXIqfp2FeEntK
     * https://youtu.be/kvB16GzSwok?si=lbdjvNmNh5mCKDgZ
     * https://youtu.be/p77yZo-_Z-Q?si=Bmy92zcNyZyoWRka
     * https://youtu.be/uA3yNa1A51w?si=cxOPnz5eKtYdTvMe
