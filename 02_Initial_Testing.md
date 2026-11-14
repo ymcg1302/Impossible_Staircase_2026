@@ -32,6 +32,13 @@
 
 ## Process and Takeaways
 
+In the previous stage, I took note of 3 prevailing structures that I could base my Chessboard Staircase on:
+1 1. The Literal Staircase Chessboard approach = using references found online, I saw that although the original artist is unknown, an original copy of it can be found in the Gökyay Chess Museum in Ankara, Turkey where the Gökyay Foundation was established to encourage the love of chess among youth. The design was popularized online and has been remade by many people online. 
+2 2. The Layered Platform Chessboard approach = here the reference integrated a multi-tiered approach with less of a focus on the staircase and more the rhythm created between the different steps more similar to the Ascending and Descending lithograph done by Escher. 
+3 3. The last approach would be more similar del Prete's approach to illusion, alongside another reference found online 
+
+----
+
 ### Test 1: Staircases Only → Too Much, Too Impossible?
 
 <img width="613" height="410" alt="image" src="https://github.com/user-attachments/assets/b394299a-61c8-49b3-818a-ae0740b281fa" />
