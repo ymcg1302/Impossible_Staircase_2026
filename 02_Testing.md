@@ -27,3 +27,11 @@
 * https://youtu.be/DaXxgK2KnGw?si=hyKokKIhKgP0EftW
 * https://www.reddit.com/r/Houdini/comments/1g1oezd/comment/lrj9vsc/?context=3
 * https://www.reddit.com/r/Houdini/comments/1g1oezd/comment/lrjfmqp/?context=3
+
+---
+
+### Process and Takeaways
+
+<img width="613" height="410" alt="image" src="https://github.com/user-attachments/assets/b394299a-61c8-49b3-818a-ae0740b281fa" />
+<img width="613" height="610" alt="image" src="https://github.com/user-attachments/assets/0363696d-25fa-4f36-9c6d-bd71709127c2" />
+
