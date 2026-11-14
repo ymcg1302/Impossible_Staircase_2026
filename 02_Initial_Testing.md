@@ -177,6 +177,17 @@ All in all, it has been an illuminating day regarding testing my ideas, I will s
 <img width="206" height="296" alt="image" src="https://github.com/user-attachments/assets/8d509781-2c2d-4343-8f6e-e1b876c8f7f7" />
 <img width="211" height="214" alt="image" src="https://github.com/user-attachments/assets/b75c26e7-9ba8-4b0e-a319-9326c438ac61" />
 
+### Lastly, another aesthetic idea
+
+While this idea is purely aesthetic, there is still potential in it, if not as an immediate goal, a stretch one, or one for my personal exercise/portfolio. 
+
+<img width="1208" height="1143" alt="Potential Idea" src="https://github.com/user-attachments/assets/a6f4174c-c5dd-4af7-bdaa-be76fb73f416" />
+
+<img width="221" height="352" alt="image" src="https://github.com/user-attachments/assets/4255a5b7-4687-43df-9555-4f490ed1cdd4" />
+<img width="211" height="215" alt="image" src="https://github.com/user-attachments/assets/25363344-0669-4a39-8299-aa031c3f6183" />
+
+<img width="211" height="175" alt="image" src="https://github.com/user-attachments/assets/bb014469-f823-4608-aec5-4897c7420096" />
+
 ----
 ### Takeaways and next steps
 * ✅ Prototype created
