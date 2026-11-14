@@ -128,7 +128,11 @@ This allowed the focus of the staircase on the outer perimeter and not every ste
 
 ---
 
-I had to try a different method when using Duplicate Special. Since I rotated the starting step/cube 45 degrees, the placement of the cubes had changed. 
+I had to try a different method when using Duplicate Special. Since I rotated the starting step/cube 45 degrees, the placement of the cubes had changed. The intervals between the diagonal placement were no longer 1 unit resulting in gaps between the cubes when I altered the Translation in the Duplicate Special tool to be:
+
+* X = 1 or -1, Z = 1, or -1 (depending on direction)
+
+This required me to reorient how I would create the subsequent steps/cubes. 
 
 <img width="821" height="412" alt="image" src="https://github.com/user-attachments/assets/bf2d7422-037a-4cfa-bfdd-fc60f6fb36ea" />
 <img width="268" height="296" alt="image" src="https://github.com/user-attachments/assets/df9b4679-c142-476f-8d7e-e557bf7ee229" />
@@ -137,6 +141,10 @@ I had to try a different method when using Duplicate Special. Since I rotated th
 <img width="603" height="284" alt="image" src="https://github.com/user-attachments/assets/6b69c235-9699-4f4e-8716-2ee5e93a2888" />
 
 ----
+
+After Trial and Error, and AI discussion, it was found that the correct distance between each diagonal cube was X = +-(0.7071), Z = +-(0.7071). Since the cubes were placed diagonally from the center of the first cube, this resulted in the distance found via the Pythagorean theorem using the corner to find the distance instead of its side. I thought this was a really interesting demonstration of the possibilities of algorithmic thinking in code and procedural modelling. 
+
+<img width="295" height="368" alt="image" src="https://github.com/user-attachments/assets/085b9329-5287-4438-aaa0-1a5e953bc4bf" />
 <img width="342" height="95" alt="image" src="https://github.com/user-attachments/assets/dfc74917-0c68-4335-86bc-56377ca8fda5" />
 <img width="337" height="181" alt="image" src="https://github.com/user-attachments/assets/a1458e12-7166-43c1-86dd-5801131a387d" />
 <img width="164" height="257" alt="image" src="https://github.com/user-attachments/assets/bd4f9be2-ee70-491d-a943-cf1dbe3c8ffd" />
@@ -147,16 +155,27 @@ I had to try a different method when using Duplicate Special. Since I rotated th
 ---
 ## Potential Application Continued
 
+That being said, I searched for other potential applications as seen below. Although I am beginning to understand the extent of procedural modelling, whether or not this needs to be translated into script needs to be discussed with Ari. Either way, these rules could be implemented directly in Python if a scripting solution was required.
+
 ### Texture Application
+
+This was more of an experimental idea which needs to be further researched to see if it can be implemented in Hypershade. 
+
 <img width="302" height="129" alt="image" src="https://github.com/user-attachments/assets/7e647d38-da20-487b-a446-6a0fb56bba02" />
 <img width="343" height="297" alt="image" src="https://github.com/user-attachments/assets/9897dd80-ce82-4aa8-bf15-b9aba4a3fcbe" />
 
----
-## Code Structure (Pseudo Code, Idea Sketching)
+### Code Structure (Pseudo Code, Idea Sketching)
+
+All in all, it has been an illuminating day regarding testing my ideas, I will seek further feedback and adjust as needed. This is a rather interesting start to what will prove to be an unexpectedly dynamic project. 
+
 <img width="340" height="332" alt="image" src="https://github.com/user-attachments/assets/81a66847-efd1-4b6f-adc8-90c71dfbcbb6" />
 <img width="343" height="295" alt="image" src="https://github.com/user-attachments/assets/ab2b0740-e2b0-4005-af06-f52c068442be" />
 <img width="340" height="122" alt="image" src="https://github.com/user-attachments/assets/461cdd6e-5a2b-410e-9374-cc822dbcd96c" />
 <img width="344" height="110" alt="image" src="https://github.com/user-attachments/assets/1d98af65-3ad2-4a9c-ae35-16749bc91e8f" />
+<img width="214" height="334" alt="image" src="https://github.com/user-attachments/assets/5be920bb-e757-4666-9edc-a79e13e4aa81" />
+<img width="202" height="173" alt="image" src="https://github.com/user-attachments/assets/8c72e299-fd42-4789-9859-b1406e6a4351" />
+<img width="206" height="296" alt="image" src="https://github.com/user-attachments/assets/8d509781-2c2d-4343-8f6e-e1b876c8f7f7" />
+<img width="211" height="214" alt="image" src="https://github.com/user-attachments/assets/b75c26e7-9ba8-4b0e-a319-9326c438ac61" />
 
 ----
 ### Takeaways and next steps
