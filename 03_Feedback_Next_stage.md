@@ -10,6 +10,31 @@
 * extra chessboards as the env = museum like setup
 * camera angle and structure are set, now play with the ball bounce and the chess pieces
 
+**Pipeline Adjustment**
+<div align="center">
+
+<ins>**General pipeline for this project:**</ins>
+
+(Stage 1) staircase procedural modelling test [Houdini or Maya]
+
+↓
+                            
+(Stage 2) camera angle fix [Houdini or Maya] → export camera + staircase
+
+↓
+                            
+(Stage 3) bouncing ball animation test [Maya], revolve method for the chess pieces [Houdini or Maya], or SketchFab
+
+↓
+                            
+(Stage 4) animation, code, environment setup refinement
+↓
+                            
+(Stage 5) ai toon shader [Arnold Maya] 
+↓
+(Stage 6) Final render
+</div>
+
 <ins>**Chess Piece 3D Sources**</ins>
 * https://sketchfab.com/search?q=chess+pieces&type=models
 * https://sketchfab.com/3d-models/chess-kit-94f58cabfc0044acb83c28f5b70c79f9 = favorite
