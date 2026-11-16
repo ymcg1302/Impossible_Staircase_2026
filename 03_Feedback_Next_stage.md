@@ -10,10 +10,9 @@
 * extra chessboards as the env = museum like setup
 * camera angle and structure are set, now play with the ball bounce and the chess pieces
 
-**Pipeline Adjustment**
 <div align="center">
-
-<ins>**General pipeline for this project:**</ins>
+  
+**Pipeline Adjustment**
 
 (Stage 1) staircase procedural modelling test [Houdini or Maya]
 
