@@ -13,7 +13,7 @@ Student ID: 5700252
 |-----------|-------------|
 | [01_Ideation_Stage](01_Ideation_Stage.md) | Initial ideas, research, and pipeline methods |
 | [02_Initial_Testing](02_Initial_Testing.md) | Initial testing, AI feedback, implementation and takeaways |
-| [03_Feedback_Next_stage](03_Feedback_Next_stage.md) | Initial testing, AI feedback, implementation and takeaways |
+| [03_Feedback_Next_stage](03_Feedback_Next_stage.md) | Initial feedback from Ari, Guidance Required |
 ---
 
 <img src="https://media.giphy.com/media/3oriO7A7bt1wsEP4cw/giphy.gif" width="250" align="right">
