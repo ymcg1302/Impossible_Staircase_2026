@@ -39,7 +39,7 @@
 
 <ins>**Chess Piece 3D Sources**</ins>
 * https://sketchfab.com/search?q=chess+pieces&type=models
-* https://sketchfab.com/3d-models/chess-kit-94f58cabfc0044acb83c28f5b70c79f9 = favorite
+* https://sketchfab.com/3d-models/chess-kit-94f58cabfc0044acb83c28f5b70c79f9 = favorite = _chosen one_
 * https://sketchfab.com/3d-models/3d-chess-ab202418ab7f4266b356e0e22eb23eb6 = good form, high poly
 * https://sketchfab.com/3d-models/chess-set-dc104d4f62e34cb5bb948cf80f546cff = good poly level
 * https://sketchfab.com/3d-models/chess-pieces-d2d7fec42d0a405d910b3ef751b30f38 = 2nd favorite
