@@ -32,7 +32,8 @@
                             
 (Stage 5) ai toon shader [Arnold Maya] 
 ↓
-(Stage 6) Final render
+
+(Stage 6) Final render [Maya or Unreal]
 </div>
 
 <ins>**Chess Piece 3D Sources**</ins>
