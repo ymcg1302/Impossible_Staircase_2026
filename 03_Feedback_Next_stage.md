@@ -28,9 +28,11 @@
 ↓
                             
 (Stage 4) animation, code, environment setup refinement
+
 ↓
                             
 (Stage 5) ai toon shader [Arnold Maya] 
+
 ↓
 
 (Stage 6) Final render [Maya or Unreal]
