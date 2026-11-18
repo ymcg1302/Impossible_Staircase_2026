@@ -50,3 +50,26 @@
 * https://sketchfab.com/3d-models/chess-pieces-1a47120c405645f69f46ccada352a4ac
 * https://sketchfab.com/3d-models/chess-pieces-b8c92b9848f042c491b1e1605556b580
 * https://sketchfab.com/3d-models/chess-pieces-951dca68ae9f4b50a8c1f56a25f4f398
+
+---
+
+# Chess Piece Considerations 
+
+* Removal of the revolve step
+* Comparing the different 3D Models:
+  
+  * Polygon density
+  * Scale and design
+  * Compatibility for texturing and UV Mapping (if need be)
+  * Scene compatibility
+
+Final choice: credit the Artist .... changes to the design of the Queen, faceting even if it is far away, proportion changes to the king = focusing on silhouette and readability
+
+<img width="853" height="511" alt="image" src="https://github.com/user-attachments/assets/31387fb1-3720-4c96-8b35-8a9344094c69" />
+
+<img width="575" height="455" alt="image" src="https://github.com/user-attachments/assets/35703ebb-1aef-47ff-9c08-329bd9be12ef" />
+
+<img width="260" height="322" alt="image" src="https://github.com/user-attachments/assets/ae590b9c-334f-415d-9eec-595f60bc5c05" />
+
+
+
