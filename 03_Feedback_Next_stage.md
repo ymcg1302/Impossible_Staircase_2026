@@ -82,4 +82,19 @@ Final choice: credit the Artist .... changes to the design of the Queen, facetin
 ---
 
 ### Texture Considerations
+<img width="400" height="464" alt="image" src="https://github.com/user-attachments/assets/c3f603f9-8a01-40f4-868d-c87193411ef1" />
+
+* https://www.youtube.com/watch?v=h1ue5qJAjXI
+* https://youtu.be/h1ue5qJAjXI?si=ycFKUNQNUZHuXcKt
+* https://www.youtube.com/watch?v=UAoAiY8NZIk&t=230s
+* https://www.youtube.com/watch?v=mRlP15QV27E
+* https://www.youtube.com/watch?v=QXhqnM2r3Qc
+* https://help.autodesk.com/view/ARNOL/ENU/?guid=arnold_user_guide_ac_surface_shaders_ac_toon_html
+* https://help.autodesk.com/view/ARNOL/ENU/?guid=arnold_core_ac_facing_ratio_html
+* https://u.osu.edu/arnoldtoonshaderdocumentation/getting-started/setting-up/
+* https://help.autodesk.com/view/MAYAUL/2025/ENU/?guid=arnold_for_maya_am_Arnold_for_Maya_User_Guide_html
+* https://leegriggs.com/toon-shader
+* https://www.3dart.it/cross-section-using-the-toon-shader-and-clip_geo-shader/
+* https://www.3dart.it/how-to-create-robot-toon-shader-in-arnold/
+* https://www.3dart.it/toon-hatching-in-maya-and-arnold-tutorial/?utm_source=Pinterest&utm_medium=organic
 
