@@ -53,7 +53,7 @@
 
 ---
 
-# Chess Piece Considerations 
+### Chess Piece Considerations 
 
 * Removal of the revolve step
 * Comparing the different 3D Models:
@@ -78,3 +78,8 @@ Final choice: credit the Artist .... changes to the design of the Queen, facetin
 <img width="381" height="375" alt="image" src="https://github.com/user-attachments/assets/871051bf-b766-4fa8-9b47-9e89b131cc24" />
 
 <img width="386" height="404" alt="image" src="https://github.com/user-attachments/assets/8a99a4a6-bf7c-4dfd-9444-30864760b268" />
+
+---
+
+### Texture Considerations
+
