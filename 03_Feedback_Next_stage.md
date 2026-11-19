@@ -121,6 +121,9 @@ Final choice: credit the Artist .... changes to the design of the Queen, facetin
 <img width="1503" height="610" alt="image" src="https://github.com/user-attachments/assets/c04de74e-f058-4f89-9b45-b2ae1e947178" />
 <img width="1523" height="571" alt="image" src="https://github.com/user-attachments/assets/d7bb0767-11c5-478c-9efa-571eb4e2ac6d" />
 <img width="1526" height="593" alt="image" src="https://github.com/user-attachments/assets/c3e33cda-d1a3-4415-bfe4-88a384c53124" />
+<img width="825" height="556" alt="image" src="https://github.com/user-attachments/assets/15f85ef7-a8cb-4cf9-85f4-0ab7361b5260" />
+<img width="1028" height="527" alt="image" src="https://github.com/user-attachments/assets/3cb6f605-70d2-40d7-8669-7fce098d48f7" />
+<img width="2351" height="1108" alt="image" src="https://github.com/user-attachments/assets/6d1d71d0-e96d-4459-ac2c-6e61f8654582" />
 
 ---
 
