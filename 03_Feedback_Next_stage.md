@@ -98,6 +98,17 @@ Final choice: credit the Artist .... changes to the design of the Queen, facetin
 * https://www.3dart.it/how-to-create-robot-toon-shader-in-arnold/
 * https://www.3dart.it/toon-hatching-in-maya-and-arnold-tutorial/?utm_source=Pinterest&utm_medium=organic
 
+#### OSL Shaders
+
+* [Tonemap Video](https://www.youtube.com/watch?v=y8wQUhHSLr4)
+* [Tonemap Code](https://github.com/ADN-DevTech/3dsMax-OSL-Shaders/blob/master/3ds%20Max%20Shipping%20Shaders/Halftone.osl)
+* https://help.autodesk.com/view/ARNOL/ENU/?guid=arnold_user_guide_ac_utility_shaders_ac_utility_osl_html
+* [UberNoise](https://github.com/ADN-DevTech/3dsMax-OSL-Shaders/blob/master/3ds%20Max%20Shipping%20Shaders/UberNoise.osl)
+
+
+
+* https://www.youtube.com/watch?v=9tQ9whQPQ_A
+
 ---
 
 <img width="926" height="562" alt="image" src="https://github.com/user-attachments/assets/6603c129-17e2-4771-b53c-635c44dfb34e" />
