@@ -87,6 +87,7 @@ Final choice: credit the Artist .... changes to the design of the Queen, facetin
 * https://youtu.be/h1ue5qJAjXI?si=ycFKUNQNUZHuXcKt
 * https://www.youtube.com/watch?v=UAoAiY8NZIk&t=230s
 * https://www.youtube.com/watch?v=mRlP15QV27E
+* https://youtu.be/K_Mww9TRg3Y?si=TRTw0dMjhP8uORC9
 * https://www.youtube.com/watch?v=QXhqnM2r3Qc
 * https://help.autodesk.com/view/ARNOL/ENU/?guid=arnold_user_guide_ac_surface_shaders_ac_toon_html
 * https://help.autodesk.com/view/ARNOL/ENU/?guid=arnold_core_ac_facing_ratio_html
