@@ -82,6 +82,9 @@ Final choice: credit the Artist .... changes to the design of the Queen, facetin
 ---
 
 ### Texture Considerations
+
+[AI Chat](https://copilot.cloud.microsoft/chat/share/eyJzaGFyZUlkIjoiZGI1MDFjODUtMmU0OC00YmJjLWFmMWMtNzAwNDBjZDA0ODVkIiwiY29udmVyc2F0aW9uSWQiOiIwMGYwZTBjZC1iNzlhLTRjMTctYTI0Mi1hMjI3MzRmNDRhYzMifQ%3D%3D)
+
 <img width="400" height="464" alt="image" src="https://github.com/user-attachments/assets/c3f603f9-8a01-40f4-868d-c87193411ef1" />
 
 * https://youtu.be/h1ue5qJAjXI?si=ycFKUNQNUZHuXcKt
