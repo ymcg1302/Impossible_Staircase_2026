@@ -98,3 +98,7 @@ Final choice: credit the Artist .... changes to the design of the Queen, facetin
 * https://www.3dart.it/how-to-create-robot-toon-shader-in-arnold/
 * https://www.3dart.it/toon-hatching-in-maya-and-arnold-tutorial/?utm_source=Pinterest&utm_medium=organic
 
+---
+
+<img width="926" height="562" alt="image" src="https://github.com/user-attachments/assets/6603c129-17e2-4771-b53c-635c44dfb34e" />
+
