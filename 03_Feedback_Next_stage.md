@@ -84,7 +84,6 @@ Final choice: credit the Artist .... changes to the design of the Queen, facetin
 ### Texture Considerations
 <img width="400" height="464" alt="image" src="https://github.com/user-attachments/assets/c3f603f9-8a01-40f4-868d-c87193411ef1" />
 
-* https://www.youtube.com/watch?v=h1ue5qJAjXI
 * https://youtu.be/h1ue5qJAjXI?si=ycFKUNQNUZHuXcKt
 * https://www.youtube.com/watch?v=UAoAiY8NZIk&t=230s
 * https://www.youtube.com/watch?v=mRlP15QV27E
