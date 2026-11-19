@@ -21,19 +21,19 @@
 (Stage 2) camera angle fix [Houdini or Maya] → export camera + staircase
 
 ↓
-                            
-(Stage 3) bouncing ball animation test [Maya], revolve method for the chess pieces [Houdini or Maya], or SketchFab
 
-↓
-                            
-(Stage 4) animation, code, environment setup refinement
-
-↓
-                            
-(Stage 5) ai toon shader [Arnold Maya] 
+(Stage 3) ai toon shader [Arnold Maya] 
 
 ↓
 
+(Stage 4) bouncing ball animation test [Maya], revolve method for the chess pieces [Houdini or Maya], or SketchFab
+
+↓
+                            
+(Stage 5) animation, code, environment setup refinement
+
+↓
+                            
 (Stage 6) Final render [Maya or Unreal]
 </div>
 
@@ -105,10 +105,6 @@ Final choice: credit the Artist .... changes to the design of the Queen, facetin
 * https://help.autodesk.com/view/ARNOL/ENU/?guid=arnold_user_guide_ac_utility_shaders_ac_utility_osl_html
 * [UberNoise](https://github.com/ADN-DevTech/3dsMax-OSL-Shaders/blob/master/3ds%20Max%20Shipping%20Shaders/UberNoise.osl)
 
-
-
-* https://www.youtube.com/watch?v=9tQ9whQPQ_A
-
 ---
 
 <img width="926" height="562" alt="image" src="https://github.com/user-attachments/assets/6603c129-17e2-4771-b53c-635c44dfb34e" />
@@ -123,3 +119,7 @@ Final choice: credit the Artist .... changes to the design of the Queen, facetin
 <img width="1523" height="571" alt="image" src="https://github.com/user-attachments/assets/d7bb0767-11c5-478c-9efa-571eb4e2ac6d" />
 <img width="1526" height="593" alt="image" src="https://github.com/user-attachments/assets/c3e33cda-d1a3-4415-bfe4-88a384c53124" />
 
+---
+
+### Conclusions, Extras and Takeaways
+* [Depth map] https://www.youtube.com/watch?v=9tQ9whQPQ_A
