@@ -125,4 +125,4 @@ Final choice: credit the Artist .... changes to the design of the Queen, facetin
 ---
 
 ### Conclusions, Extras and Takeaways
-* [Depth map] https://www.youtube.com/watch?v=9tQ9whQPQ_A
+* [Depth map]https://www.youtube.com/watch?v=9tQ9whQPQ_A
