@@ -88,6 +88,7 @@ Final choice: credit the Artist .... changes to the design of the Queen, facetin
 <img width="400" height="464" alt="image" src="https://github.com/user-attachments/assets/c3f603f9-8a01-40f4-868d-c87193411ef1" />
 
 * https://youtu.be/h1ue5qJAjXI?si=ycFKUNQNUZHuXcKt
+* https://youtu.be/rqvgsbtGV5U?si=JPMUYC7p6RQWvqGE
 * https://www.youtube.com/watch?v=UAoAiY8NZIk&t=230s
 * https://www.youtube.com/watch?v=mRlP15QV27E
 * https://youtu.be/K_Mww9TRg3Y?si=TRTw0dMjhP8uORC9
