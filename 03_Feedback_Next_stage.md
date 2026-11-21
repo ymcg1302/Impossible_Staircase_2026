@@ -129,4 +129,26 @@ Final choice: credit the Artist .... changes to the design of the Queen, facetin
 ---
 
 ### Conclusions, Extras and Takeaways
+
+Throughout the process, I had to switch the timeline around to accommodate the aspects of the project I felt would take up more time versus what could be done quicker. That is why the initial lighting and initial texturing was done before the animation. This will allow me more time to focus on the more time consuming aspects of the project. 
+
 * [Depth map](https://www.youtube.com/watch?v=9tQ9whQPQ_A)
+
+### Quick Progress Check and Timeline
+
+Stages 
+- [X] Ground chess board
+- [X] (1) Chess Topiary Pieces
+- [X] (2) Card Suit Topiary/Hedges
+- [ ] (3) Mushrooms
+- [ ] (4) Roses
+- [ ] (5) A Bunny
+
+Timeline (Before Break)
+- [ ] Week 1: 11/29 - 12/05
+- [ ] Week 2: 12/06 - 12/12
+- [ ] Week 3: 12/13 - 12/19
+
+Timeline (During/After Break) = TBD
+- [ ] ddd
+
