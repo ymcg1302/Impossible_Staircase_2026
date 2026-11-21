@@ -137,12 +137,12 @@ Throughout the process, I had to switch the timeline around to accommodate the a
 ### Quick Progress Check and Timeline
 
 Stages 
-- [X] Ground chess board
-- [X] (1) Chess Topiary Pieces
-- [X] (2) Card Suit Topiary/Hedges
-- [ ] (3) Mushrooms
-- [ ] (4) Roses
-- [ ] (5) A Bunny
+- [X] Stage 1: Staircase Generation
+- [X] Stage 2: Camera Angle and Initial Scene Setup
+- [X] Stage 3: Ai Toon Shader Test and Initial Lighting Test
+- [ ] Stage 4: Bouncing Ball Animation Test
+- [ ] Stage 5: Animation and Scene Refinement
+- [ ] Stage 6: Render and Documentation
 
 Timeline (Before Break)
 - [ ] Week 1: 11/29 - 12/05
@@ -150,5 +150,5 @@ Timeline (Before Break)
 - [ ] Week 3: 12/13 - 12/19
 
 Timeline (During/After Break) = TBD
-- [ ] ddd
+- [ ] 
 
