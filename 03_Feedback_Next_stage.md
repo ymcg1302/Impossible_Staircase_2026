@@ -150,5 +150,5 @@ Timeline (Before Break)
 - [ ] Week 3: 12/13 - 12/19
 
 Timeline (During/After Break) = TBD
-- [ ] 
+- [ ] x
 
