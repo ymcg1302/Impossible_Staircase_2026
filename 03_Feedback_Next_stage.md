@@ -137,6 +137,16 @@ Final choice: credit the Artist .... changes to the design of the Queen, facetin
 Throughout the process, I had to switch the timeline around to accommodate the aspects of the project I felt would take up more time versus what could be done quicker. That is why the initial lighting and initial texturing was done before the animation. This will allow me more time to focus on the more time consuming aspects of the project. 
 
 * [Depth map](https://www.youtube.com/watch?v=9tQ9whQPQ_A)
+* [Unreal Toon Shader Implementation, Future Refs # 1](https://www.youtube.com/watch?v=3Q6Ik1V75I8)
+* [Unreal Toon Shader Implementation, Future Refs # 2](https://youtu.be/ldv94GUzTOA?si=bvz30lU-j72RTSeD)
+* [Unreal Toon Shader Implementation, Future Refs # 3](https://youtu.be/oOwI0QCSqXw?si=VvHMAs-75tuzDzxo)
+* [Unreal Toon Shader Implementation, Future Refs # 4](https://youtu.be/YJQ-hkToKuY?si=bF7oPhZ4I4Des5Ig)
+* [Unreal Toon Shader Implementation, Future Refs # 5](https://share.google/aimode/x4q88VaLkvyRRebEn)
+
+<img width="484" height="370" alt="image" src="https://github.com/user-attachments/assets/bed3e55b-a007-46e8-ad9d-ea2c6f647133" />
+
+<img width="691" height="384" alt="image" src="https://github.com/user-attachments/assets/e4fd7dfb-ba10-49c1-8b0d-36e715ab3ac8" />
+
 
 ### Quick Progress Check and Timeline
 
