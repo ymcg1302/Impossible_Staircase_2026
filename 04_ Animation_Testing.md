@@ -1,1 +1,2 @@
 
+[AI Chat](https://copilot.cloud.microsoft/chat/share/eyJzaGFyZUlkIjoiZTcxYmM4ZTEtNjdhNi00NTFkLWEwZjEtZjkwZmQzNTFkMzUxIiwiY29udmVyc2F0aW9uSWQiOiI4MzlkODZhYy1hZTM5LTQwNjctOWMyOS1lNWNmY2M3Njg5MDEifQ%3D%3D)
